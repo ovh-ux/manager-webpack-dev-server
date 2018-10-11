@@ -5,7 +5,7 @@
     "webpack",
     "webpack-dev-server"
   ],
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "index.js",
   "repository": "ovh-ux/manager-webpack-dev-server.git",
   "author": "OVH SAS",
