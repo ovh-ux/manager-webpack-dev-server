@@ -1,5 +1,5 @@
 {
-  "name": "manager-webpack-dev-server",
+  "name": "@ovh-ux/manager-webpack-dev-server",
   "description": "OVH manager webpack development server configuration",
   "keywords": [
     "webpack",
