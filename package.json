@@ -6,13 +6,13 @@
     "webpack-dev-server"
   ],
   "version": "2.0.2",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "ovh-ux/manager-webpack-dev-server.git",
   "author": "OVH SAS",
   "license": "BSD-3-Clause",
   "scripts": {
-    "test": "eslint --quiet .",
-    "lint": "eslint --quiet --fix ."
+    "test": "eslint --quiet src",
+    "lint": "eslint --quiet --fix src"
   },
   "dependencies": {
     "base64url": "^3.0.0",
