@@ -12,7 +12,9 @@
   "license": "BSD-3-Clause",
   "scripts": {
     "test": "eslint --quiet src",
-    "lint": "eslint --quiet --fix src"
+    "lint": "eslint --quiet --fix src",
+    "version": "npx conventional-changelog-cli -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
+    "postversion": "git push && git push --tags"
   },
   "dependencies": {
     "base64url": "^3.0.0",

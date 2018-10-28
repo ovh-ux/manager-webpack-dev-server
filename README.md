@@ -1,6 +1,8 @@
 # Manager Webpack Dev Server
 
-OVH manager webpack development server configuration.
+> OVH manager webpack development server configuration.
+
+[![Downloads](https://badgen.net/npm/dt/@ovh-ux/manager-webpack-dev-server)](https://npmjs.com/package/@ovh-ux/manager-webpack-dev-server) [![Dependencies](https://badgen.net/david/dep/ovh-ux/manager-webpack-dev-server)](https://npmjs.com/package/@ovh-ux/manager-webpack-dev-server?activeTab=dependencies) [![Dev Dependencies](https://badgen.net/david/dev/ovh-ux/manager-webpack-dev-server)](https://npmjs.com/package/@ovh-ux/manager-webpack-dev-server?activeTab=dependencies) [![Gitter](https://badgen.net/badge/gitter/ovh-ux/blue?icon=gitter)](https://gitter.im/ovh/ux)
 
 ## Usage
 
@@ -26,3 +28,11 @@ const env = {
   https: false,     // true to enable https
 };
 ```
+
+## Related
+
+* [manager-webpack-config](https://github.com/ovh-ux/manager-webpack-config) - OVH manager shared webpack configuration
+
+## License
+
+[BSD-3-Clause](LICENSE) © OVH SAS
