@@ -33,6 +33,10 @@ const env = {
 
 * [manager-webpack-config](https://github.com/ovh-ux/manager-webpack-config) - OVH manager shared webpack configuration
 
+## Contributing
+
+Always feel free to help out! Whether it's [filing bugs and feature requests](https://github.com/ovh-ux/manager-webpack-dev-server/issues/new) or working on some of the [open issues](https://github.com/ovh-ux/manager-webpack-dev-server/issues), our [contributing guide](CONTRIBUTING.md) will help get you started.
+
 ## License
 
 [BSD-3-Clause](LICENSE) © OVH SAS
