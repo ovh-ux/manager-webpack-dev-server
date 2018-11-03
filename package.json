@@ -6,7 +6,7 @@
     "webpack",
     "webpack-dev-server"
   ],
-  "repository": "ovh-ux/manager-webpack-dev-server.git",
+  "repository": "ovh-ux/manager-webpack-dev-server",
   "license": "BSD-3-Clause",
   "author": "OVH SAS",
   "files": [
