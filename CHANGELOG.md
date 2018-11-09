@@ -1,3 +1,13 @@
+## [2.0.3](https://github.com/ovh-ux/manager-webpack-dev-server/compare/v2.0.2...v2.0.3) (2018-11-09)
+
+
+### Bug Fixes
+
+* **package.json:** specify files entry ([302f1aa](https://github.com/ovh-ux/manager-webpack-dev-server/commit/302f1aa))
+* **package.json:** update repository entry by removing extra .git ([924627c](https://github.com/ovh-ux/manager-webpack-dev-server/commit/924627c))
+
+
+
 <a name="2.0.2"></a>
 ## [2.0.2](https://github.com/ovh-ux/manager-webpack-dev-server/compare/v2.0.1...v2.0.2) (2018-10-26)
 
