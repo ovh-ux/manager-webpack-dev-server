@@ -1,3 +1,7 @@
+## [2.0.4](https://github.com/ovh-ux/manager-webpack-dev-server/compare/v2.0.3...v2.0.4) (2019-04-05)
+
+
+
 ## [2.0.3](https://github.com/ovh-ux/manager-webpack-dev-server/compare/v2.0.2...v2.0.3) (2018-11-09)
 
 
