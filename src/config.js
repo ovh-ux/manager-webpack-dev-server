@@ -26,6 +26,7 @@ module.exports = (env) => {
       logLevel: 'silent',
       https: env.https || false,
       overlay: true,
+      host: env.host || 'localhost',
       port: 9000,
       proxy,
     },
