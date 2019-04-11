@@ -1,3 +1,12 @@
+# [2.1.0](https://github.com/ovh-ux/manager-webpack-dev-server/compare/v2.0.4...v2.1.0) (2019-04-11)
+
+
+### Features
+
+* **config:** add host parameter ([#17](https://github.com/ovh-ux/manager-webpack-dev-server/issues/17)) ([b5bd44e](https://github.com/ovh-ux/manager-webpack-dev-server/commit/b5bd44e))
+
+
+
 ## [2.0.4](https://github.com/ovh-ux/manager-webpack-dev-server/compare/v2.0.3...v2.0.4) (2019-04-05)
 
 
