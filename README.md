@@ -29,9 +29,10 @@ The _env_ parameter is an object containing the following values:
 
 ```js
 const env = {
-  region: 'EU',     // manager region (EU, CA, US)
-  local2API: false, // true to make 2API calls on local 8080 port
+  host: '0.0.0.0',  // If you want your server to be accessible externally 
   https: false,     // true to enable https
+  local2API: false, // true to make 2API calls on local 8080 port
+  region: 'EU',     // manager region (EU, CA, US)
 };
 ```
 
