@@ -33,6 +33,13 @@ const env = {
   https: false,     // true to enable https
   local2API: false, // true to make 2API calls on local 8080 port
   region: 'EU',     // manager region (EU, CA, US)
+  dev: [            // custom configuration to proxy some routes 
+    {
+      context       // Routes to rewrite
+      target        // API path to target
+      nic           
+    }
+  ]
 };
 ```
 

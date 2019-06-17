@@ -6,10 +6,15 @@ const serverProxy = require('./proxy');
 
 module.exports = (env) => {
   const region = (env.region || 'eu').toLowerCase();
-  const proxy = [serverProxy.dev(region)];
+  const proxy = [serverProxy.v6(region)];
   const sso = new Sso(region);
   if (env.local2API) {
     proxy.unshift(serverProxy.aapi);
+  }
+  if (env.dev) {
+    proxy.unshift(
+      ...env.dev.map(config => serverProxy.dev(config)),
+    );
   }
   return {
     mode: 'development',
