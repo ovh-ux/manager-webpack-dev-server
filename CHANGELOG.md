@@ -1,3 +1,12 @@
+# [2.2.0](https://github.com/ovh-ux/manager-webpack-dev-server/compare/v2.1.0...v2.2.0) (2019-06-21)
+
+
+### Features
+
+* allow to target dev environment more easily ([e32b729](https://github.com/ovh-ux/manager-webpack-dev-server/commit/e32b729))
+
+
+
 # [2.1.0](https://github.com/ovh-ux/manager-webpack-dev-server/compare/v2.0.4...v2.1.0) (2019-04-11)
 
 
